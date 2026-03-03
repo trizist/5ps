@@ -32,7 +32,7 @@
 
 ## 🌌 Vision
 
-Create a decentralized financial platform that bridges the **AliOm Five Pillars** concept with the **Finternet** vision using space assets from NASA, SpaceX, and the ISS. This application tokenizes space-related assets and utilizes Solana's Unified Ledger to create a seamless, global financial ecosystem that connects Earth and space communities while embodying Islamic finance principles.
+Create a decentralized financial platform that bridges the **Alium Five Pillars** concept with the **Finternet** vision using space assets from NASA, SpaceX, and the ISS. This application tokenizes space-related assets and utilizes Solana's Unified Ledger to create a seamless, global financial ecosystem that connects Earth and space communities while embodying Islamic finance principles.
 
 ---
 
